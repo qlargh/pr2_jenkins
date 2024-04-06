@@ -23,7 +23,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <addClasspath>./target/classes/org/example/Main.class</addClasspath>
+                            <addClasspath>./target/classes/org/example/</addClasspath>
                             <mainClass>Main</mainClass>
                         </manifest>
                     </archive>
