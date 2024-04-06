@@ -22,9 +22,8 @@
                 <version>3.3.0</version>
                 <configuration>
                     <archive>
-                        <manifestFile>./target/classes/org/example/Main.class</manifestFile>
                         <manifest>
-                            <addClasspath>true</addClasspath>
+                            <addClasspath>./target/classes/org/example/Main.class</addClasspath>
                             <mainClass>Main</mainClass>
                         </manifest>
                     </archive>
